@@ -1,0 +1,29 @@
+img {
+    height: 100px;
+    width: 150px;
+    margin-left: 50px;
+    padding-left: 50px;
+    /* float: right; */
+}
+/* .green {
+    height: 200px;
+    width: 200px;
+} */
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+/* body {
+    background-color: grey;
+} */
+.lead {
+    text-align: center;
+    color: aliceblue;
+    font-size: 17px;
+}
+.jumbotron {
+    background-color: darkblue;
+}
+p {
+    font-size: 15px;
+}
